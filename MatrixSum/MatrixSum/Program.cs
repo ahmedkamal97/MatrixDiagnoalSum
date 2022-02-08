@@ -9,7 +9,6 @@ namespace MatrixSum
     class Program
     {
 
-        // sum matrix diagnoal
         static void Main(string[] args)
         {
             int matrixSize;
